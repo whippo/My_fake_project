@@ -9,7 +9,7 @@
 ###################################################################################
 
 # SUMMARY:
-\
+
 
 # Required Files (check that script is loading latest version):
 # REQUIRED_FILE.R
@@ -25,7 +25,7 @@
 # RECENT CHANGES TO SCRIPT                                                        #
 # LOAD PACKAGES                                                                   #
 # READ IN AND PREPARE DATA                                                        #
-# MANIPULATE DATA                                                                 #   
+# MANIPULATE DATA                                                                 # 
 #                                                                                 #
 ###################################################################################
 
